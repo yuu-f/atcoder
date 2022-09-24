@@ -23,5 +23,7 @@ using pii = pair<int,int>;
 #define sz(x) ((int)(x).size())
 #define fore(i,a) for(auto &i:a)
 
+#define _GLIBCXX_DEBUG
+
 int main(){
 }
